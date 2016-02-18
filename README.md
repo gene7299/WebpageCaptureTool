@@ -9,7 +9,7 @@ How to use?
 
 [phantomjs.exe] [SourceURL] [FILE To Save] [Webpage Width] [Webpage Height]
 
-"D://cloudcmx/bin/phantomjs.exe" "D://x/bin/webcapture.js" "file:///D://x/preview/admin/layout/layout_202/index.html" "file:///D://x/preview/admin/layout/layout_202/output.png" 640 360
+"D://x/bin/phantomjs.exe" "D://x/bin/webcapture.js" "file:///D://x/preview/admin/layout/layout_202/index.html" "file:///D://x/preview/admin/layout/layout_202/output.png" 640 360
 
 
 
